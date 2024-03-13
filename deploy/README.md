@@ -16,4 +16,6 @@ All Projects Source Code: https://www.theblockchaincoders.com/SourceCode
 
 Official Website: https://www.theblockchaincoders.com
 
+CustomDex: 0xF2ADd541b4A8554fD0B03a701F143213e25Ac83f
+
 Book 1 -1 Appointment: https://bit.ly/Book-1-1-Appointment
